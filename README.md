@@ -4,4 +4,4 @@
 * Target Platform: WebGL (Res: 1024x768)
 Short Description: First try to export WebGL.
 
-ShareMyGame Link: https://www.sharemygame.com/share/5c06bd2e-e52a-4868-8267-19051e996ba7
+ShareMyGame Link: https://www.sharemygame.com/share/c46ad703-a8af-422c-a3af-3cdcc48407c5
