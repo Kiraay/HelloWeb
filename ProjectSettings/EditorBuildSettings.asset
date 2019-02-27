@@ -8,3 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_scenes/HelloWebScene.unity
     guid: 026d0c3af9a015447a0f11c9bf97aab2
+  - enabled: 1
+    path: Assets/_scenes/scene1.unity
+    guid: 6dff6628cd9750f4a84d62fb990d184c
+  - enabled: 1
+    path: Assets/_scenes/scene2.unity
+    guid: c3ff2aa160fe3c444b51ac77c36fa971
